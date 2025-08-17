@@ -20,8 +20,8 @@ It serves as a foundation for building AI-powered APIs capable of analyzing, des
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/cindyzakya/gemini-flash-api.git
+cd gemini-flash-api
 ```
 
 2. Install dependencies:
